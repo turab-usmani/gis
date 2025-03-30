@@ -1,3 +1,9 @@
-print("hello world")
-print("something")
-print("s")
+def skip_list():
+    pass
+
+
+def main():
+    pass
+
+main()
+
